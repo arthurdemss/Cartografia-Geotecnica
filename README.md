@@ -1,2 +1,2 @@
-# Movimientos-en-masa
-Actividades y talleres en Cartografia Geotécnica
+# Cartografia Geotecnica
+Actividades y talleres en Cartografia Geotecnica
